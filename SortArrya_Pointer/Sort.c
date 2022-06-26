@@ -1,3 +1,4 @@
+// short an array using pointers
 #include<stdio.h>
 void Short(int*,int);
 void input(int *p,int);
